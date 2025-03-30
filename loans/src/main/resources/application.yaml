@@ -1,0 +1,11 @@
+
+spring:
+  application:
+    name: loan-service
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: loanDB
+server:
+  port: 8090

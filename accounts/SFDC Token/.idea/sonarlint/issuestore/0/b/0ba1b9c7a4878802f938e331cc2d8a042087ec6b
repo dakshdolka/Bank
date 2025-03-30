@@ -1,0 +1,29 @@
+
+n
+java:S1192
+"SDefine a constant instead of duplicating this literal "(9441983, 6070933)" 3 times.(†ã¯ıÿÿÿÿ
+d
+java:S1192
+"IDefine a constant instead of duplicating this literal "Internal" 3 times.(†ã¯ıÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "daksh".(Øö‚Æûÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "girish1".(ÚÖ§§øÿÿÿÿ
+U
+java:S1854
+":Remove this useless assignment to local variable "girish".(†ã¯ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ü°¸¢øÿÿÿÿ
+F
+java:S1481
+"+Remove this unused "girish" local variable.(†ã¯ıÿÿÿÿ
+G
+java:S1481",Remove this unused "girish1" local variable.(ÚÖ§§øÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(–ÑŸ˜ÿÿÿÿÿ
+E
+java:S1481"*Remove this unused "daksh" local variable.(Øö‚Æûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(´ÚÌÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İßÅŒıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ó“œ÷
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Šê¯ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(³‰à¢üÿÿÿÿ
+V	java:S125+"<This block of commented-out lines of code should be removed.(Òºùÿÿÿÿ
